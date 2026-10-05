@@ -1,4 +1,4 @@
-const CACHE = 'acec-pwa-v1';
+const CACHE = 'acec-pwa-v3';
 const APP_SHELL = [
   './',
   './index.html',
