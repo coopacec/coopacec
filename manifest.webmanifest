@@ -2,11 +2,12 @@
   "id": "./",
   "name": "ACEC Escolar",
   "short_name": "ACEC",
-  "start_url": "./",
+  "description": "Sistema de gestão escolar ACEC",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#1F5CA4",
+  "theme_color": "#1F5C4A",
   "icons": [
     {
       "src": "./icon-192.png",
